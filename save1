@@ -1,0 +1,1 @@
+{"^o":"GameBoard","cells":6,"container":[{"^o":"LetterCell","letter":"u","revealed":false},{"^o":"LetterCell","letter":"n","revealed":false},{"^o":"LetterCell","letter":"m","revealed":false},{"^o":"LetterCell","letter":"e","revealed":true},{"^o":"LetterCell","letter":"e","revealed":true},{"^o":"LetterCell","letter":"t","revealed":false}],"word":"unmeet","deadwall":["a","b"]}
